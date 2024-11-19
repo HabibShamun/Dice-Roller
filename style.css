@@ -32,3 +32,15 @@ input
     margin-right: 30px;
     margin-left: 10px;
 }
+#result
+{
+    font-size: 4rem;
+    color: rgb(155, 7, 7);
+}
+#diceimages
+{
+    font-size: 50px;
+    margin: 100px;
+}
+
+
