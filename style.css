@@ -34,13 +34,14 @@ input
 }
 #result
 {
+    margin-top: 20px;
     font-size: 4rem;
     color: rgb(155, 7, 7);
 }
 #diceimages
 {
     font-size: 50px;
-    margin: 100px;
+    margin: 60px;
 }
 
 
